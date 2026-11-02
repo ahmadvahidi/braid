@@ -165,4 +165,4 @@ Open an issue with the strongest objection you can make. That is the point of pu
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Text and diagrams: CC BY 4.0.
+Code: MIT — see [LICENSE](LICENSE). Text and diagrams: CC BY 4.0 — see [LICENSE-docs](LICENSE-docs).
