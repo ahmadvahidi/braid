@@ -1,0 +1,3 @@
+*.png
+!docs/diagram.png
+.DS_Store
